@@ -8,10 +8,10 @@
   
   <br /><br />
   
-  <img src="https://img.shields.io/badge/🎨_DESIGNER-UI%2FUX-FF6B4A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/💻_DEV-FRONTEND-FF9F68?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/📚_STATUS-ESTUDANTE-0F0F0F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/📍_LOCAL-BRASIL-FF6B4A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/_DESIGNER-UI%2FUX-FF6B4A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/_DEV-FRONTEND-FF9F68?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/_STATUS-ESTUDANTE-0F0F0F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/_LOCAL-BRASIL-FF6B4A?style=for-the-badge&logoColor=white" />
   
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  ## 👤 Sobre Mim
+  ##  Sobre Mim
   
 </div>
 
@@ -43,7 +43,7 @@ const designer = {
 
 <div align="center">
   
-  ## 🎯 Áreas de Atuação
+  ##  Áreas de Atuação
   
   <table>
     <tr>
@@ -71,7 +71,7 @@ const designer = {
 
 <div align="center">
   
-  ## 🛠️ Tech Stack
+  ##  Tech Stack
   
   ### Design
   
@@ -102,7 +102,7 @@ const designer = {
 
 <div align="center">
   
-  ## 📊 Estatísticas do GitHub
+  ##  Estatísticas do GitHub
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B4A&icon_color=FF9F68&text_color=FFFFFF" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true&background=0F0F0F&ring=FF6B4A&fire=FF9F68&currStreakLabel=FF6B4A" />
@@ -125,7 +125,7 @@ const designer = {
 
 <div align="center">
   
-  ## 🔥 Atividade Recente
+  ##  Atividade Recente
   
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
@@ -136,7 +136,7 @@ const designer = {
 
 <div align="center">
   
-  ## 🌐 Onde Me Encontrar
+  ##  Onde Me Encontrar
   
   <a href="https://linkedin.com/in/seu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF6B4A?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -164,7 +164,7 @@ const designer = {
 
 <div align="center">
   
-  ### 💭 Frase do Dia
+  ###  Frase do Dia
   
   <i>"Design não é só como parece, é como funciona."</i>
   <br />
