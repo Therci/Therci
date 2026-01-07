@@ -8,10 +8,10 @@
   
   <br /><br />
   
-  <img src="https://img.shields.io/badge/🎨_DESIGNER-UI%2FUX-FF6B4A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/💻_DEV-FRONTEND-FF9F68?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/📚_STATUS-ESTUDANTE-0F0F0F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/📍_LOCAL-BRASIL-FF6B4A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DESIGNER-UI%2FUX-FF6B4A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DEV-FRONTEND-FF9F68?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-ESTUDANTE-0F0F0F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LOCAL-BRASIL-FF6B4A?style=for-the-badge" />
   
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  ## 👤 Sobre Mim
+  ## Sobre Mim
   
 </div>
 
@@ -43,27 +43,11 @@ const designer = {
 
 <div align="center">
   
-  ## 🎯 Áreas de Atuação
+  ## Áreas de Atuação
   
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/-UI_Design-FF6B4A?style=flat-square&logo=figma&logoColor=white" width="120" /><br />
-        <strong>UI Design</strong><br />
-        <sub>Interfaces modernas<br/>e visuais</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/-UX_Design-FF9F68?style=flat-square&logo=adobe&logoColor=white" width="120" /><br />
-        <strong>UX Design</strong><br />
-        <sub>Pesquisa e<br/>usabilidade</sub>
-      </td>
-      <td align="center" width="200">
-        <img src="https://img.shields.io/badge/-Frontend-FF6B4A?style=flat-square&logo=react&logoColor=white" width="120" /><br />
-        <strong>Frontend</strong><br />
-        <sub>Código limpo<br/>e responsivo</sub>
-      </td>
-    </tr>
-  </table>
+  | UI Design | UX Design | Frontend |
+  |-----------|-----------|----------|
+  | Interfaces modernas e visuais | Pesquisa e usabilidade | Código limpo e responsivo |
   
 </div>
 
@@ -71,16 +55,16 @@ const designer = {
 
 <div align="center">
   
-  ## 🛠️ Tech Stack
+  ## Tech Stack
   
-  ### Design
+  **Design**
   
   ![Figma](https://img.shields.io/badge/Figma-FF6B4A?style=for-the-badge&logo=figma&logoColor=white)
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF9F68?style=for-the-badge&logo=adobexd&logoColor=white)
   ![Illustrator](https://img.shields.io/badge/Illustrator-FF6B4A?style=for-the-badge&logo=adobeillustrator&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Photoshop-FF9F68?style=for-the-badge&logo=adobephotoshop&logoColor=white)
   
-  ### Frontend
+  **Frontend**
   
   ![HTML5](https://img.shields.io/badge/HTML5-FF6B4A?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-FF9F68?style=for-the-badge&logo=css3&logoColor=white)
@@ -89,7 +73,7 @@ const designer = {
   ![TailwindCSS](https://img.shields.io/badge/Tailwind-FF6B4A?style=for-the-badge&logo=tailwindcss&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-FF9F68?style=for-the-badge&logo=sass&logoColor=white)
   
-  ### Ferramentas
+  **Ferramentas**
   
   ![Git](https://img.shields.io/badge/Git-0F0F0F?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-FF6B4A?style=for-the-badge&logo=github&logoColor=white)
@@ -102,22 +86,31 @@ const designer = {
 
 <div align="center">
   
-  ## 📊 Estatísticas do GitHub
+  ## Estatísticas do GitHub
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Therci&show_icons=true&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B4A&icon_color=FF9F68&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Therci&theme=dark&hide_border=true&background=0F0F0F&ring=FF6B4A&fire=FF9F68&currStreakLabel=FF6B4A" />
+  ![](https://github-readme-stats.vercel.app/api?username=Therci&show_icons=true&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B4A&icon_color=FF9F68&text_color=FFFFFF)
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Therci&theme=dark&hide_border=true&background=0F0F0F&ring=FF6B4A&fire=FF9F68&currStreakLabel=FF6B4A)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Therci&layout=compact&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B4A&text_color=FFFFFF)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## Onde Me Encontrar
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B4A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+  [![Behance](https://img.shields.io/badge/Behance-FF9F68?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/seu-perfil)
+  [![Dribbble](https://img.shields.io/badge/Dribbble-FF6B4A?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/seu-perfil)
+  [![Email](https://img.shields.io/badge/Email-0F0F0F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF9F68?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
   
   <br />
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therci&layout=compact&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B4A&text_color=FFFFFF" />
-  
-  <br /><br />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0F0F0F&color=FFFFFF&line=FF6B4A&point=FF9F68&area=true&hide_border=true" />
-  
-  <br /><br />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&title_color=FF6B4A" />
+  ![](https://komarev.com/ghpvc/?username=Therci&color=FF6B4A&style=for-the-badge)
   
 </div>
 
@@ -125,52 +118,13 @@ const designer = {
 
 <div align="center">
   
-  ## 🔥 Atividade Recente
+  ### Frase do Dia
   
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
+  _"Design não é só como parece, é como funciona."_
   
-</div>
-
----
-
-<div align="center">
+  **— Steve Jobs**
   
-  ## 🌐 Onde Me Encontrar
-  
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF6B4A?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://behance.net/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-FF9F68?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-  <a href="https://dribbble.com/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-FF6B4A?style=for-the-badge&logo=dribbble&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-0F0F0F?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://seu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF9F68?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  
-  <br /><br />
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=FF6B4A&style=for-the-badge)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💭 Frase do Dia
-  
-  <i>"Design não é só como parece, é como funciona."</i>
   <br />
-  <strong>— Steve Jobs</strong>
-  
-  <br /><br />
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B4A&height=120&section=footer" />
   
