@@ -104,12 +104,12 @@ const designer = {
   
   ## 📊 Estatísticas do GitHub
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B4A&icon_color=FF9F68&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true&background=0F0F0F&ring=FF6B4A&fire=FF9F68&currStreakLabel=FF6B4A" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Therci&show_icons=true&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B4A&icon_color=FF9F68&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Therci&theme=dark&hide_border=true&background=0F0F0F&ring=FF6B4A&fire=FF9F68&currStreakLabel=FF6B4A" />
   
   <br />
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B4A&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therci&layout=compact&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B4A&text_color=FFFFFF" />
   
   <br /><br />
   
