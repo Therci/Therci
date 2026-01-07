@@ -48,17 +48,17 @@ const designer = {
   <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://api.iconify.design/carbon/paint-brush.svg?color=%23FF6B4A" width="60" /><br />
+        <img src="https://img.shields.io/badge/-UI_Design-FF6B4A?style=flat-square&logo=figma&logoColor=white" width="120" /><br />
         <strong>UI Design</strong><br />
         <sub>Interfaces modernas<br/>e visuais</sub>
       </td>
       <td align="center" width="200">
-        <img src="https://api.iconify.design/carbon/user-avatar.svg?color=%23FF6B4A" width="60" /><br />
+        <img src="https://img.shields.io/badge/-UX_Design-FF9F68?style=flat-square&logo=adobe&logoColor=white" width="120" /><br />
         <strong>UX Design</strong><br />
         <sub>Pesquisa e<br/>usabilidade</sub>
       </td>
       <td align="center" width="200">
-        <img src="https://api.iconify.design/carbon/code.svg?color=%23FF6B4A" width="60" /><br />
+        <img src="https://img.shields.io/badge/-Frontend-FF6B4A?style=flat-square&logo=react&logoColor=white" width="120" /><br />
         <strong>Frontend</strong><br />
         <sub>Código limpo<br/>e responsivo</sub>
       </td>
