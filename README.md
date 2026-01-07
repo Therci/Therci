@@ -1,12 +1,10 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B4A&height=200&section=header&text=UI/UX%20Designer%20%26%20Frontend%20Dev&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+  # 🎨 UI/UX Designer & Frontend Developer
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FF6B4A&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Designer+UI%2FUX;Estudante+de+Frontend;Criando+experi%C3%AAncias+incr%C3%ADveis" alt="Typing SVG" />
-  </a>
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FF6B4A&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Designer+UI%2FUX;Estudante+de+Frontend;Criando+experi%C3%AAncias+incr%C3%ADveis)
   
-  <br /><br />
+  <br />
   
   <img src="https://img.shields.io/badge/DESIGNER-UI%2FUX-FF6B4A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DEV-FRONTEND-FF9F68?style=for-the-badge" />
@@ -123,9 +121,5 @@ const designer = {
   _"Design não é só como parece, é como funciona."_
   
   **— Steve Jobs**
-  
-  <br />
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B4A&height=120&section=footer" />
   
 </div>
