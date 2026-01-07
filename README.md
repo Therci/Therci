@@ -6,12 +6,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FF6B4A&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Designer+UI%2FUX;Estudante+de+Frontend;Criando+experi%C3%AAncias+incr%C3%ADveis" alt="Typing SVG" />
   </a>
   
-  <br />
+  <br /><br />
   
-  <img src="https://img.shields.io/badge/Designer-UI%2FUX-FF6B4A?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dev-Frontend-FF9F68?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Estudante-0F0F0F?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Local-Brasil-FF6B4A?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/🎨_DESIGNER-UI%2FUX-FF6B4A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/💻_DEV-FRONTEND-FF9F68?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/📚_STATUS-ESTUDANTE-0F0F0F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/📍_LOCAL-BRASIL-FF6B4A?style=for-the-badge&logoColor=white" />
   
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person.png" width="25" /> Sobre Mim
+  ## 👤 Sobre Mim
   
 </div>
 
@@ -43,22 +43,22 @@ const designer = {
 
 <div align="center">
   
-  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="25" /> Áreas de Atuação
+  ## 🎯 Áreas de Atuação
   
   <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="60" /><br />
+        <img src="https://api.iconify.design/carbon/paint-brush.svg?color=%23FF6B4A" width="60" /><br />
         <strong>UI Design</strong><br />
         <sub>Interfaces modernas<br/>e visuais</sub>
       </td>
       <td align="center" width="200">
-        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055645.png" width="60" /><br />
+        <img src="https://api.iconify.design/carbon/user-avatar.svg?color=%23FF6B4A" width="60" /><br />
         <strong>UX Design</strong><br />
         <sub>Pesquisa e<br/>usabilidade</sub>
       </td>
       <td align="center" width="200">
-        <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="60" /><br />
+        <img src="https://api.iconify.design/carbon/code.svg?color=%23FF6B4A" width="60" /><br />
         <strong>Frontend</strong><br />
         <sub>Código limpo<br/>e responsivo</sub>
       </td>
@@ -71,16 +71,16 @@ const designer = {
 
 <div align="center">
   
-  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" /> Tech Stack
+  ## 🛠️ Tech Stack
   
-  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="20" /> Design
+  ### Design
   
   ![Figma](https://img.shields.io/badge/Figma-FF6B4A?style=for-the-badge&logo=figma&logoColor=white)
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF9F68?style=for-the-badge&logo=adobexd&logoColor=white)
   ![Illustrator](https://img.shields.io/badge/Illustrator-FF6B4A?style=for-the-badge&logo=adobeillustrator&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Photoshop-FF9F68?style=for-the-badge&logo=adobephotoshop&logoColor=white)
   
-  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" /> Frontend
+  ### Frontend
   
   ![HTML5](https://img.shields.io/badge/HTML5-FF6B4A?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-FF9F68?style=for-the-badge&logo=css3&logoColor=white)
@@ -89,7 +89,7 @@ const designer = {
   ![TailwindCSS](https://img.shields.io/badge/Tailwind-FF6B4A?style=for-the-badge&logo=tailwindcss&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-FF9F68?style=for-the-badge&logo=sass&logoColor=white)
   
-  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="20" /> Ferramentas
+  ### Ferramentas
   
   ![Git](https://img.shields.io/badge/Git-0F0F0F?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-FF6B4A?style=for-the-badge&logo=github&logoColor=white)
@@ -102,7 +102,7 @@ const designer = {
 
 <div align="center">
   
-  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> Estatísticas do GitHub
+  ## 📊 Estatísticas do GitHub
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B4A&icon_color=FF9F68&text_color=FFFFFF" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true&background=0F0F0F&ring=FF6B4A&fire=FF9F68&currStreakLabel=FF6B4A" />
@@ -125,7 +125,7 @@ const designer = {
 
 <div align="center">
   
-  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="25" /> Atividade Recente
+  ## 🔥 Atividade Recente
   
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
@@ -136,7 +136,7 @@ const designer = {
 
 <div align="center">
   
-  ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="25" /> Onde Me Encontrar
+  ## 🌐 Onde Me Encontrar
   
   <a href="https://linkedin.com/in/seu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF6B4A?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -164,7 +164,7 @@ const designer = {
 
 <div align="center">
   
-  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" width="20" /> Frase do Dia
+  ### 💭 Frase do Dia
   
   <i>"Design não é só como parece, é como funciona."</i>
   <br />
