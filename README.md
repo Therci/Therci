@@ -23,7 +23,7 @@
   
 </div>
 
-```typescript
+
 const designer = {
   nome: "Seu Nome",
   localização: "Brasil",
@@ -37,9 +37,8 @@ const designer = {
     ferramentas: ["Git", "VS Code", "Notion"]
   }
 };
-```
 
----
+
 
 <div align="center">
   
