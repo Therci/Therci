@@ -33,9 +33,9 @@ Minha abordagem combina a estética do design com a precisão do código, garant
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Therci&show_icons=true&theme=radical&bg_color=1a1a1a&title_color=ff4500&icon_color=ff4500&text_color=ffffff&border_color=ff4500" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Therci&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=FF6347&icon_color=FF6347&text_color=ffffff&border_color=FF6347" alt="Estatísticas do GitHub" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therci&layout=compact&theme=radical&bg_color=1a1a1a&title_color=ff4500&text_color=ffffff&border_color=ff4500" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therci&layout=compact&theme=dark&bg_color=1a1a1a&title_color=FF6347&text_color=ffffff&border_color=FF6347" alt="Linguagens mais usadas" />
 </div>
 
 ---
@@ -43,7 +43,24 @@ Minha abordagem combina a estética do design com a precisão do código, garant
 ### 🚀 Atividade Recente
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Therci&theme=radical&background=1a1a1a&fire=ff4500&ring=ff4500&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakLabel=ff4500&currStreakNum=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Therci&theme=dark&background=1a1a1a&fire=FF6347&ring=FF6347&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakLabel=FF6347&currStreakNum=ffffff" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🌟 Repositórios em Destaque
+
+<div align="center">
+  <!-- Substitua 'Therci/nome-do-repositorio' pelos seus repositórios reais -->
+  <a href="https://github.com/Therci/projeto-reserva">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Therci&repo=projeto-reserva&theme=dark&bg_color=1a1a1a&title_color=FF6347&icon_color=FF6347&text_color=ffffff&border_color=FF6347" alt="projeto-reserva" />
+  </a>
+  <a href="https://github.com/Therci/Cosmeticos-Luna-Beauty">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Therci&repo=Cosmeticos-Luna-Beauty&theme=dark&bg_color=1a1a1a&title_color=FF6347&icon_color=FF6347&text_color=ffffff&border_color=FF6347" alt="Cosmeticos-Luna-Beauty" />
+  </a>
+  <a href="https://github.com/Therci/agenda-interna">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Therci&repo=agenda-interna&theme=dark&bg_color=1a1a1a&title_color=FF6347&icon_color=FF6347&text_color=ffffff&border_color=FF6347" alt="agenda-interna" />
+  </a>
 </div>
 
 ---
@@ -58,12 +75,12 @@ Minha abordagem combina a estética do design com a precisão do código, garant
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://seu-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF6347?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Therci&color=ff4500&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Therci&color=FF6347&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
 </div>
