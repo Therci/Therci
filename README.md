@@ -141,9 +141,7 @@ const designer = {
   <a href="https://linkedin.com/in/seu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF6B4A?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://behance.net/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-FF9F68?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
+  
   <a href="https://dribbble.com/seu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/Dribbble-FF6B4A?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
