@@ -1,86 +1,215 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Therci/Therci/main/pasted_file_pFStMY_image.png" width="200" alt="Logo/Avatar" />
-  <h1>Olá, eu sou Therci! 👋</h1>
-  <p><strong>UI/UX Designer & Desenvolvedor Front-end (React)</strong></p>
-</div>
-
----
-
-### 🎨 Sobre Mim
-
-Sou um entusiasta da criação de experiências digitais intuitivas e visualmente atraentes. Com uma paixão por **UI/UX Design** e um forte conhecimento em **desenvolvimento Front-end**, especialmente com **React**, busco transformar ideias complexas em interfaces de usuário elegantes e funcionais.
-
-Minha abordagem combina a estética do design com a precisão do código, garantindo que cada projeto não apenas pareça ótimo, mas também ofereça uma experiência de usuário excepcional.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Therci&show_icons=true&theme=dark&bg_color=1a1a1a&title_color=FF6347&icon_color=FF6347&text_color=ffffff&border_color=FF6347" alt="Estatísticas do GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Therci&layout=compact&theme=dark&bg_color=1a1a1a&title_color=FF6347&text_color=ffffff&border_color=FF6347" alt="Linguagens mais usadas" />
-</div>
-
----
-
-### 🚀 Atividade Recente
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Therci&theme=dark&background=1a1a1a&fire=FF6347&ring=FF6347&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakLabel=FF6347&currStreakNum=ffffff" alt="GitHub Streak" />
-</div>
-
----
-
-### 🌟 Repositórios em Destaque
-
-<div align="center">
-  <!-- Substitua 'Therci/nome-do-repositorio' pelos seus repositórios reais -->
-  <a href="https://github.com/Therci/projeto-reserva">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Therci&repo=projeto-reserva&theme=dark&bg_color=1a1a1a&title_color=FF6347&icon_color=FF6347&text_color=ffffff&border_color=FF6347" alt="projeto-reserva" />
+  
+  <!-- Banner animado com typing effect -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B4A&height=200&section=header&text=UI/UX%20Designer%20%26%20Frontend%20Dev&fontSize=40&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+  
+  <!-- Texto animado -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FF6B4A&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Designer+UI%2FUX+%F0%9F%8E%A8;Estudante+de+Frontend+%F0%9F%92%BB;Criando+experi%C3%AAncias+incr%C3%ADveis+%E2%9C%A8" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/Therci/Cosmeticos-Luna-Beauty">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Therci&repo=Cosmeticos-Luna-Beauty&theme=dark&bg_color=1a1a1a&title_color=FF6347&icon_color=FF6347&text_color=ffffff&border_color=FF6347" alt="Cosmeticos-Luna-Beauty" />
-  </a>
-  <a href="https://github.com/Therci/agenda-interna">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Therci&repo=agenda-interna&theme=dark&bg_color=1a1a1a&title_color=FF6347&icon_color=FF6347&text_color=ffffff&border_color=FF6347" alt="agenda-interna" />
-  </a>
+  
+  <br />
+  
+  <!-- Badges de perfil -->
+  <img src="https://img.shields.io/badge/Designer-UI%2FUX-FF6B4A?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dev-Frontend-FF9F68?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Estudante-0F0F0F?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local-Brasil%20🇧🇷-FF6B4A?style=for-the-badge" />
+  
 </div>
 
 ---
 
-### 💬 Vamos Conversar?
+<div align="center">
+  
+  ## ✨ Sobre Mim
+  
+</div>
+
+```typescript
+const designer = {
+  nome: "Seu Nome",
+  localização: "Brasil 🇧🇷",
+  foco: ["UI/UX Design", "Frontend Development", "Design Systems"],
+  atualmente: "Estudante apaixonado por criar experiências digitais",
+  filosofia: "Design não é só como parece, é como funciona.",
+  
+  habilidades: {
+    design: ["Figma", "Adobe XD", "Prototyping", "User Research"],
+    frontend: ["HTML5", "CSS3", "JavaScript", "React"],
+    ferramentas: ["Git", "VS Code", "Notion"]
+  }
+};
+```
+
+---
 
 <div align="center">
+  
+  ## 🎯 Áreas de Atuação
+  
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/fluency/96/design.png" width="60" /><br />
+        <strong>UI Design</strong><br />
+        <sub>Interfaces modernas<br/>e visuais</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/fluency/96/user-male-circle.png" width="60" /><br />
+        <strong>UX Design</strong><br />
+        <sub>Pesquisa e<br/>usabilidade</sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/fluency/96/code.png" width="60" /><br />
+        <strong>Frontend</strong><br />
+        <sub>Código limpo<br/>e responsivo</sub>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 🛠️ Tech Stack
+  
+  ### 🎨 Design
+  
+  ![Figma](https://img.shields.io/badge/Figma-FF6B4A?style=for-the-badge&logo=figma&logoColor=white)
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF9F68?style=for-the-badge&logo=adobexd&logoColor=white)
+  ![Illustrator](https://img.shields.io/badge/Illustrator-FF6B4A?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+  ![Photoshop](https://img.shields.io/badge/Photoshop-FF9F68?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+  
+  ### 💻 Frontend
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-FF6B4A?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-FF9F68?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-FF6B4A?style=for-the-badge&logo=javascript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-FF9F68?style=for-the-badge&logo=react&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind-FF6B4A?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-FF9F68?style=for-the-badge&logo=sass&logoColor=white)
+  
+  ### 🔧 Ferramentas
+  
+  ![Git](https://img.shields.io/badge/Git-0F0F0F?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-FF6B4A?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-FF9F68?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-0F0F0F?style=for-the-badge&logo=notion&logoColor=white)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 🎨 Paleta de Cores
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://via.placeholder.com/100x100/FF6B4A/FF6B4A" width="100" height="100" /><br />
+        <code>#FF6B4A</code><br />
+        <strong>Coral</strong>
+      </td>
+      <td align="center">
+        <img src="https://via.placeholder.com/100x100/FF9F68/FF9F68" width="100" height="100" /><br />
+        <code>#FF9F68</code><br />
+        <strong>Laranja Claro</strong>
+      </td>
+      <td align="center">
+        <img src="https://via.placeholder.com/100x100/0F0F0F/0F0F0F" width="100" height="100" /><br />
+        <code>#0F0F0F</code><br />
+        <strong>Preto</strong>
+      </td>
+      <td align="center">
+        <img src="https://via.placeholder.com/100x100/FFFFFF/FFFFFF" width="100" height="100" /><br />
+        <code>#FFFFFF</code><br />
+        <strong>Branco</strong>
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 📊 Estatísticas do GitHub
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B4A&icon_color=FF9F68&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true&background=0F0F0F&ring=FF6B4A&fire=FF9F68&currStreakLabel=FF6B4A" />
+  
+  <br />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B4A&text_color=FFFFFF" />
+  
+  <br /><br />
+  
+  <!-- Gráfico de atividade -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0F0F0F&color=FFFFFF&line=FF6B4A&point=FF9F68&area=true&hide_border=true" />
+  
+  <br /><br />
+  
+  <!-- Troféus -->
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&title_color=FF6B4A" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 🔥 Atividade Recente
+  
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 🌐 Onde Me Encontrar
+  
+  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF6B4A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://behance.net/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-FF9F68?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://dribbble.com/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-FF6B4A?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
   <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0F0F0F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://seu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF9F68?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://seu-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF6347?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+  
+  <br /><br />
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=FF6B4A&style=for-the-badge)
+  
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Therci&color=FF6347&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
+  
+  ### 💭 Frase do Dia
+  
+  <i>"Design não é só como parece, é como funciona."</i>
+  <br />
+  <strong>— Steve Jobs</strong>
+  
+  <br /><br />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B4A&height=120&section=footer" />
+  
 </div>
