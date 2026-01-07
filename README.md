@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🎨 UI/UX Designer & Frontend Developer
+  #  Estudante de UI/UX Designer & Frontend Developer 
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FF6B4A&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+Designer+UI%2FUX;Estudante+de+Frontend;Criando+experi%C3%AAncias+incr%C3%ADveis)
   
